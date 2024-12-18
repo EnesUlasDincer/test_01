@@ -8,7 +8,9 @@ int main() {
 
     std::cout << "Hello" << std::endl;
 
-    std::cout << add(7,9) << std::endl;
+    std::cout << add(7,6) << std::endl;
+
+    std::cout << "Bye" << std::endl;
 
     writeMyName();    
 
