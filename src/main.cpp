@@ -8,14 +8,7 @@ int main() {
 
     std::cout << "Hello" << std::endl;
 
-<<<<<<< HEAD
-    std::cout << add(7,5) << std::endl;
-
-    std::cout << "Bye" << std::endl;
-    std::cout << "Bye" << std::endl;
-=======
     std::cout << add(7,9) << std::endl;
->>>>>>> 62b9bca (first commit)
 
     writeMyName();    
 
